@@ -38,13 +38,13 @@ Assignment - 12 # done
 Assignment - 13
 -> Create a deep learning model for fruit ribboning and alert the user through a siren.
 
-Assignment - 14
+Assignment - 14 # done
 -> Create a web application to predict stock prices using Long Short-Term Memory Technique.
 
 Assignment - 15
 -> Create a deep learning model to check pneumonia detection using an x-ray dataset.
 
-Assignment - 16
+Assignment - 16 # done
 -> Create an Alexa bot to return your academic percentage and attendance percentage when you query using roll number.
 
 Assignment -  17

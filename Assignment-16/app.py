@@ -6,6 +6,7 @@ speaker = pyttsx3.init()
 voices = speaker.getProperty('voices')
 speaker.setProperty('voice',voices[1].id)
 
+d=False
 with sr.Microphone() as source:
     print("Recording audio")
     listener.adjust_for_ambient_noise(source, duration=1)
@@ -28,10 +29,13 @@ with sr.Microphone() as source:
             head = next(f)
             reader = csv.reader(f)
             for r in reader:
-                if r[0] == roll:
-                    print("Name : ", r[1])
-                    print("Percentage : ", r[2])
-                    print("Attendence", r[3])
-                else :
-                    speaker.say("No student Found")
-                    speaker.runAndWait()
+                for i in range(len(r)):
+                    if r[i] == roll:
+                        print("Name : ", r[1])
+                        print("Percentage : ", r[2])
+                        print("Attendence", r[3])
+                        d=True
+                        break
+            if not d:
+                speaker.say("No student Found")
+                speaker.runAndWait()
