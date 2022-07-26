@@ -8,7 +8,7 @@ Assignment - 2 # done
 Assignment - 3 # done
 -> Read a text from the image using AWS recognition.
 
-Assignment - 4 
+Assignment - 4 # done
 -> Create a web application to upload files into S3 and list the uploaded files that exist in S3.
 
 Assignment - 5 # done
@@ -32,7 +32,7 @@ Assignment - 10
 Assignment - 11
 -> Create a social distance detector using Yolo.
 
-Assignment - 12
+Assignment - 12 # done
 -> Count how many persons are there in the room using Yolo.
 
 Assignment - 13
