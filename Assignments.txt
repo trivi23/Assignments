@@ -53,7 +53,7 @@ Assignment -  17
 Assignment - 18
 -> Create a prediction system to detect the saline completion rate and notify the nurse.
 
-Assignment - 19
+Assignment - 19 # done
 -> Create an emotion-based wall frame for the parent base on the kid's emotion.
 
 Assignment - 20
