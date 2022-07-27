@@ -35,7 +35,7 @@ Assignment - 11
 Assignment - 12 # done
 -> Count how many persons are there in the room using Yolo.
 
-Assignment - 13
+Assignment - 13 # done
 -> Create a deep learning model for fruit ribboning and alert the user through a siren.
 
 Assignment - 14 # done
