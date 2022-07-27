@@ -26,7 +26,7 @@ Assignment - 8 # done
 Assignment - 9
 -> Create a deep learning model to detect Thunderbolt Yogasana using Mediapipe.
 
-Assignment - 10
+Assignment - 10 # done
 -> Create an object detection system which could detect the number of cars in the given image using Yolo.
 
 Assignment - 11
@@ -59,3 +59,17 @@ Assignment - 19 # done
 Assignment - 20
 -> Create a machine learning model to perform sentimental analysis on the disaster data.
 
+Assignment - 21
+-> Calculate the multiplication of 2 numbers using Keras.
+
+Assignment - 22
+-> Create Eye Decease Image Classifier using Keras and Teachable machine.
+
+Assignment - 23
+-> How to read data annotation using some open source platforms. 
+
+Assignment - 24
+-> Create a deep learning model to predict skin cancer detection using Insufficient v3.
+
+Assignment-25
+-> Augment a monkey face when your face is scanned using Mediapipe

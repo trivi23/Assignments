@@ -57,10 +57,8 @@ def proccess_frame(frame,outputs,classes,conf,nms):
         top=box[1]
         width=box[2]
         height=box[3]
-        if classid == 2:
-            b.append(classid)
-            for i in range(len(b)):
-                co=i+1
+        if classids[i] == 2:
+            co += 1
         else:
             co = 0
         draw_prediction(frame,classes,classids[i],confidences[i],co,left,top,left+width,top+height)
