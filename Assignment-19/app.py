@@ -3,9 +3,9 @@ from deepface import DeepFace
 import time
 
 cam = cv2.VideoCapture(0)
-happy = cv2.imread('happy.png')
+happy = cv2.imread('happy.jpg')
 sad = cv2.imread('sad.jpg')
-angry = cv2.imread('angry.png')
+angry = cv2.imread('angry.jpg')
 default = cv2.imread('grey.jpg')
 img=default
 while True:
@@ -23,6 +23,6 @@ while True:
             cv2.imshow("Parent", img)
         except:
             img=default
-    if cv2.waitKey(10000) & 0xFF == ord('q'):
+    if cv2.waitKey(3000) & 0xFF == ord('q'):
         break
     cv2.destroyAllWindows()
