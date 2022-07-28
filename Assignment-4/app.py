@@ -15,6 +15,7 @@ if len(files)>0 and st.button('upload'):
         file_details['size']=files[i].size
         print(file_details)
         client.upload_file(file_details['name'],bucket_name,file_details['name'])
+        st.success("file uploaded")
 if st.button('List files'):
     s3=boto3.resource('s3')
     my_bucket = s3.Bucket(bucket_name)

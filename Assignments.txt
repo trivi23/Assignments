@@ -17,19 +17,19 @@ Assignment - 5 # done
 Assignment - 6 # done
 -> Deploy salary prediction system on AWSEC2.
 
-Assignment - 7
+Assignment - 7 # done
 -> Create a website using WordPress on amazon lightsail.
 
 Assignment - 8 # done
 -> Create a deep learning model which could able to detect iris using Mediapipe.
 
-Assignment - 9
+Assignment - 9 # done
 -> Create a deep learning model to detect Thunderbolt Yogasana using Mediapipe.
 
 Assignment - 10 # done
 -> Create an object detection system which could detect the number of cars in the given image using Yolo.
 
-Assignment - 11
+Assignment - 11 # done
 -> Create a social distance detector using Yolo.
 
 Assignment - 12 # done
@@ -41,22 +41,22 @@ Assignment - 13 # done
 Assignment - 14 # done
 -> Create a web application to predict stock prices using Long Short-Term Memory Technique.
 
-Assignment - 15
+Assignment - 15 # done
 -> Create a deep learning model to check pneumonia detection using an x-ray dataset.
 
 Assignment - 16 # done
 -> Create an Alexa bot to return your academic percentage and attendance percentage when you query using roll number.
 
-Assignment -  17
+Assignment -  17 # iot
 -> Create a prediction system to identify whether the smart diaper is completely wet or not.
 
-Assignment - 18
+Assignment - 18 # delete
 -> Create a prediction system to detect the saline completion rate and notify the nurse.
 
 Assignment - 19 # done
 -> Create an emotion-based wall frame for the parent base on the kid's emotion.
 
-Assignment - 20
+Assignment - 20 # done
 -> Create a machine learning model to perform sentimental analysis on the disaster data.
 
 Assignment - 21
@@ -71,5 +71,5 @@ Assignment - 23
 Assignment - 24
 -> Create a deep learning model to predict skin cancer detection using Insufficient v3.
 
-Assignment-25
+Assignment-25 
 -> Augment a monkey face when your face is scanned using Mediapipe
